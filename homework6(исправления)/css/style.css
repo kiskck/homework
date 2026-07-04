@@ -1,0 +1,28 @@
+
+ul {
+    list-style-type: none;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px 40px;
+    background: #b36666;
+}
+
+.logo img {
+    width: 70px;
+    height: auto;
+    display: block;
+}
+
+.nav {
+    display: flex;
+    gap: 30px;
+}
+
+.number a {
+    text-decoration: none;
+}
